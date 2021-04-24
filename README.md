@@ -1,3 +1,3 @@
 # AtCoder
 
-・This is code in AtCoder
+・AtCoder 記録用Repository
